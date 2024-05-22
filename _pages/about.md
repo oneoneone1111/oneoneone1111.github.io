@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+东华大学信息科学与技术学院副教授，硕士生导师。2009年本科毕业于安徽大学，2012-2016年受国家公派赴西班牙马德里理工大学（Universidad Politécnica de Madrid，UPM）学习，获UPM硕士和博士学位（Cum Laude），美国南卡罗莱纳大学访问学者。长期从事通信与信息系统学科教学及无线协同感知、身联网可穿戴计算等方向的科研工作。主持国家自然科学基金2项，发表学术论文40余篇，申请国家发明专利6件。担任2本国际期刊编委、多个国际会议TPC成员及IEEE COM MAG、TITS、TVT、TIM、TNSM、TAI等权威期刊审稿人。
 
 A data-driven personal website
 ======
