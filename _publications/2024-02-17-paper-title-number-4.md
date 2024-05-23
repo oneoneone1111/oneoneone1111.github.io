@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "L. Zhang, P. Lin, "Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN," Future Generation Computer Systems, vol. 140, no. , pp. 311-320, 2023. (JCR Q1)"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
