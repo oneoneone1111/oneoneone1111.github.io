@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,24 @@ redirect_from:
 ---
 
 东华大学信息科学与技术学院副教授，硕士生导师。2009年本科毕业于安徽大学，2012-2016年受国家公派赴西班牙马德里理工大学（Universidad Politécnica de Madrid，UPM）学习，获UPM硕士和博士学位（Cum Laude），美国南卡罗莱纳大学访问学者。长期从事通信与信息系统学科教学及无线协同感知、身联网可穿戴计算等方向的科研工作。主持国家自然科学基金2项，发表学术论文40余篇，申请国家发明专利6件。担任2本国际期刊编委、多个国际会议TPC成员及IEEE COM MAG、TITS、TVT、TIM、TNSM、TAI等权威期刊审稿人。
+
+Education
+======
+* Ph.D., Universidad Politécnica de Madrid, 2016
+* M.Sc., Universidad Politécnica de Madrid, 2013
+* B.D.，Anhui University, 2009
+
+Work experience
+======
+* Associate Prof. , Donghua University
+* Lecturer , Donghua University
+* Algorithm Engineer, Ericsson,
+* RA Prof., SIMIT-CAS,
+* Visit. Sc., University of South Carolina, 2016
+#  * Github University
+#* Duties included: Merging pull requests
+#* Supervisor: Professor Hub
+
 
 A data-driven personal website
 ======
@@ -37,12 +55,6 @@ For site content, there is one markdown file for each type of content, which are
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
