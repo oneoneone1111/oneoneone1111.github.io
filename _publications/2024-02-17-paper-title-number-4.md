@@ -1,12 +1,5 @@
 ---
 title: "代表性SCI期刊论文:"
-#collection: publications
-#permalink: Future Generation Computer Systems, vol. 140, no. , pp. 311-320, 2023. (JCR Q1)
-#excerpt: 'This paper is about fixing template issue #693.'
-#venue: 'L. Zhang, P. Lin, Future Generation Computer Systems, vol. 140, no. , pp. 311-320, 2023. (JCR Q1)'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
 * L. Zhang, P. Lin, “Reinforcement Learning Based Energy-Neutral Operation for Hybrid EH Powered TBAN,” Future Generation Computer Systems, vol. 140, pp. 311-320, 2023. (JCR Q1, 中科院Top)
 * L. Zhang, X. Chu, M. Zhai, “Machine Learning-Based Integrated Wireless Sensing and Positioning for Cellular Network,” IEEE Transactions on Instrumentation and Measurement, vol. 72, Art no. 5501011, pp. 1-11, 2023 (JCR Q1,中科院二区)
 * L. Zhang, P. Lin, K. Deng, G. Huang, J. Feng, “Joint Optimization of Energy and QoS for Smart Clothing with Multi-posture Participation,” IEEE Sensors Journal, vol. 22, no. 23, pp. 23529-23538, 2022 (JCR Q1, 中科院Top)
