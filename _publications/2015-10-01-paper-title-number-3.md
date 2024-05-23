@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning-Based Integrated Wireless Sensing and Positioning for Cellular Network "
 collection: publications
-permalink:IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-11, 2023, Art no. 5501011. (JCR Q1)
+permalink: IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-11, 2023, Art no. 5501011. (JCR Q1)
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 #date: 2015-10-01
 venue: 'L. Zhang, X. Chu, M. Zhai'
