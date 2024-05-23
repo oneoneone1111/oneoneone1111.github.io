@@ -1,7 +1,6 @@
 ---
 title: "HONORS AND AWARDS"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: Awards
+excerpt: "
 2023年: UCIC-SER Young Scientist Award
 2023年: 中国纺织工业联合会纺织高等教育教学成果奖二等奖（2/8）
 2023年: 东华大学教学成果奖一等奖（2/8）
@@ -12,4 +11,7 @@ collection: Awards
 2021年: 全国大学生电子设计竞赛上海赛区优秀指导教师奖
 2021年: 东华大学群众体育先进个人
 2018年:  UPM Premio Extraordinarios de Doctorado (马德里理工大学杰出博士毕业生奖)
+..."
+collection: portfolio
 ---
+
