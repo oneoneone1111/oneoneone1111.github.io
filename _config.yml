@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D., A/Prof."
   location         : "Shanghai,China."
-  employer         : "Technology Donghua University"
+  employer         : "Donghua University"
   uri              : # URL
   email            : "lei.zhang@dhu.edu.cn" 
 
@@ -101,7 +101,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    
   generatedFields:
     date:
       type               : "date"
