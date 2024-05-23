@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
 ======
 * National Natural Science Foundation of China (General Program: 62371118)
   * Research on Collaborative Situational Awareness and Energy Neutral Operation for Trustworthy Internet of Bodies, 2024.01-2027.12, PI
@@ -34,40 +33,3 @@ Work experience
     
 * Enterprise-commissioned Project (HX104210835)
   * Research on IoV Communication System based on SDR, PI
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
