@@ -10,13 +10,15 @@ main:
     url: /teaching/    
 
   - title: "Awards"
-    url: /portfolio/
-        
-  - title: "Talks"
+    url: /markdown/
+    
+  - title: "News"
     url: /talks/   
     
   - title: "Student Team"
     url: /year-archive/
+
+#     - title: "Awards"
+ #   url: /portfolio/
     
- # - title: "Guide"
-  #  url: /markdown/
+
