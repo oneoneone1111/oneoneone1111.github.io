@@ -5,13 +5,13 @@ main:
 
   - title: "Projects"
     url: /cv/ 
+    
+ - title: "Awards"
+    url: /markdown/
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Awards"
-    url: /markdown/
-    
   - title: "News"
     url: /talks/   
     
