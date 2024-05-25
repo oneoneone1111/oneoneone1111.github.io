@@ -14,11 +14,13 @@ main:
 
   - title: "News"
     url: /talks/   
-    
-  - title: "Student Team"
-    url: /year-archive/
 
-#     - title: "Awards"
- #   url: /portfolio/
+  - title: "Student Team"
+   url: /portfolio/
     
+    
+  #- title: "Awards"
+   # url: /year-archive/
+
+
 
